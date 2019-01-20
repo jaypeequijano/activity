@@ -5,6 +5,6 @@
 </head>
 <body>
 <img src="">
-<p></p>
+<p>This Activity Diagram shows that</p>
 </body>
 </html>
