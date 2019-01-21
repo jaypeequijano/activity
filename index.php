@@ -4,7 +4,7 @@
 <title>Activity Diagram</title>
 </head>
 <body>
-<img src="activity.jpg">
+<img src="activity1.jpg">
 <p>Activity Diagram</p>
 <p>
 This diagram shows the flow of process of this proposed app(Tutor finder app).There are two types of users here, the tutor who renders the service and the client who finds tutor & which the service is rendered to. 
